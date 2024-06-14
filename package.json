@@ -53,8 +53,8 @@
     "diff": "^4.0.2",
     "glob": "^7.1.6",
     "json-rpc2": "^2.0.0",
-    "moment": "^2.24.0",
-    "semver": "^7.3.2",
+    "moment": "^2.29.4",
+    "semver": "^7.5.2",
     "tree-kill": "file:third_party/tree-kill",
     "vscode-debugadapter": "^1.44.0",
     "vscode-debugadapter-testsupport": "^1.44.0",
@@ -77,15 +77,15 @@
     "esbuild": "^0.12.21",
     "fs-extra": "^9.0.0",
     "get-port": "^5.1.1",
-    "gts": "^3.1.0",
-    "mocha": "^9.1.2",
+    "gts": "^3.1.1",
+    "mocha": "^9.2.2",
     "prettier": "^2.2.1",
     "sinon": "^9.0.2",
     "ts-loader": "^7.0.5",
     "tslint": "^6.1.1",
     "typescript": "^3.8.3",
     "vscode-test": "^1.3.0",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.13"
   },
   "engines": {
     "vscode": "^1.59.0"
